@@ -1,0 +1,72 @@
+@media only screen and (max-width: 1020px) {
+     
+  }
+  @media only screen and (max-width: 768px) {
+   
+  }
+  @media only screen and (max-width: 420px) {
+    #banner-sec .img-sec {
+        width: 350px;
+    }
+    #service-sec .service-sec-top p {
+        margin: 50px 0px;
+        
+    }
+    #service-sec h2::before {
+       
+        left: 200px;
+       
+    }
+    .work-top p {
+        
+        margin: 50px 0px;
+    }
+    .work-top h2:before {
+        
+        left: 200px;
+       
+    }
+    .top-experience h2:before {
+        
+        left: 200px;
+       
+    }
+    #contact-sec h2::before {
+       
+        left: 200px;
+        
+    }
+    #experience .pt-10 {
+        margin: 50px 0px;
+    }
+  .footer-center p {
+    
+    padding: 30px 0px;
+   
+}
+
+  @media only screen and (max-width: 320px) {
+    #banner-section .banner-text-sec h2 {
+        font-size: 48px;
+    }
+    #let-section .lets-sec-btn .btn-danger {
+        padding: 15px 44px;
+    }
+    #service-section .service-right h2 {
+        font-size: 31px;
+    }
+    #hiking-section .text-sec h2 {
+        font-size: 40px;
+        padding-bottom: 20px;
+    }
+    #suscribe-section .sus-text-sec h2 {
+        font-size: 50px;
+        text-align: center;
+        color: white;
+        font-weight: 900;
+    }
+   #footer .sec-wight {
+        padding-bottom: 50px;
+    }
+  }
+  
